@@ -196,3 +196,22 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+/* ===== PixelStudio Css ===== */
+
+/* #map {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+*/
+*.pixel{
+    position: absolute;
+}
+
+#draw {
+    border: 2px solid black;
+}
